@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Pete Volk, Michael McWhertor",
+      "title": "Star Wars movies and TV shows: Every project and release date announced",
+      "description": "Here’s the official Star Wars movie and TV release calendar schedule through 2026, with every new and upcoming Star Wars project, where to watch it, and when it will be released.",
+      "url": "https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/LJYr0YFGZinHCi3KcuRbZWJ1DD0=/0x153:1920x1158/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16219144/star_wars_logo1.jpg",
+      "publishedAt": "2023-04-07T15:15:00Z",
+      "content": "Star Wars is in an interesting place. Multiple movies have been delayed or canceled after the mixed response to Rise of Skywalker in 2019 and Solo: A Star Wars Story the year before. Since then, most… [+6760 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Wired",
+      "title": "The 61 Best Movies on Disney+ Right Now (August 2024)",
+      "description": "“The Beach Boys,” “Taylor Swift: The Eras Tour (Taylor’s Version),” and “Fantastic Mr. Fox” are just a few of the movies you should be watching on Disney+ this month.",
+      "url": "https://www.wired.com/story/best-movies-disney-plus/",
+      "urlToImage": "https://media.wired.com/photos/6682e27e09f4920650e9d4a5/191:100/w_1280,c_limit/Disney-Movie-Guide-Update-Beach-Boys-74252747.jpg",
+      "publishedAt": "2022-09-23T11:00:00Z",
+      "content": "In the game known as the streaming wars, Disney+ came out swinging, bringing with it a massive library of movies and TV showswith new ones being added all the time. Watched everything on Netflix? Dis… [+38487 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Collier Jennings",
+      "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+      "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+      "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+      "publishedAt": "2022-09-01T18:03:14Z",
+      "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+    }
+  ]
+}
